@@ -21,4 +21,4 @@ Aim and shoot as fast and as accurately as possible.
 
 Beat your time and climb the leaderboard (if implemented).
 
-📦 Installation
+Unity version : 2023.1.0f1
